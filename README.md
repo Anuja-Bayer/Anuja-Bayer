@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuja-Bayer
 - 👀 I’m interested in AWS & DevOps
-- 🌱 I’m currently learning AWS Certified Solutions Architect – Associate Certification, ITIL exam
+- 🌱 I’m currently preparing for AWS Certified Solutions Architect – Associate Certification, ITIL exam
 - 📫 How to reach me anuja.pawar.ext@bayer.com
 - 😄 Pronouns: Associate Engineer
 
